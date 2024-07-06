@@ -1,1 +1,35 @@
 https://github.com/DevOpsHiveHQ/dynamic-devops-roadmap/blob/main/projects/hivebox/README.md#phase-1  
+
+
+Phase 2
+Related Module: Basics - DevOps Core
+
+2.1 Tools
+Git --------------> installed
+VS Code ----------> installed
+Docker -----------> installed
+
+
+2.2 Code
+Create GitHub repository for the project. ----> Done 
+Implement the code requirements:  -----> Done
+
+Requirements: 
+
+Create a function that print current app version. It should print the version then exit the application. ---------> Done 
+Use Semantic Versioning for the app version starting with v0.0.1.-------------------> Done 
+
+
+2.3 Containers 
+Create Dockerfile for the project. 
+      - identify the the needed requirement: 
+            Python: ( in our case we can either Go with python slim or python alpine but we will go with python alpine since it is very small app)  
+
+
+Build the Docker image and run it locally. ------> Done
+
+The application is not displaying the required data -----> will work on it tomorrow
+
+
+
+
