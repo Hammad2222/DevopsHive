@@ -1,0 +1,30 @@
+Phase2: 
+# Docker application installation Guide
+
+#Prerequisites 
+- Docker installed
+- project files downloaded
+
+#setup instructions: 
+
+1- Download the project: 
+The application file and the docker file are both included in the project directory 
+
+2- Navigate to project location
+- Open the terminal 
+
+- Navigate to the location of the projct 
+
+```
+CD PATH/TO/PROJECT
+```
+3- Build the image: 
+```
+docker build -t my-app:v0.0.1 .
+```
+4- run the image
+```
+docker run my-app:v1
+```
+
+5- ensure that application is working and providing the correct values
