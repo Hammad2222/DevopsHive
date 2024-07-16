@@ -1,0 +1,9 @@
+I haven't been able to work on the project for a few days :( will try to further commit.
+2.4 Testing
+Locally, run the app container and ensure that it returns the correct value.
+
+The application is not displaying the required data -----> I managed to find the error on the docker file and i will test and see how it goes
+
+Phase 2 Complete
+
+
