@@ -24,7 +24,7 @@ docker build -t my-app:v0.0.1 .
 ```
 4- run the image
 ```
-docker run my-app:v1
+docker run my-app:v0.0.1
 ```
 
 5- ensure that application is working and providing the correct values
